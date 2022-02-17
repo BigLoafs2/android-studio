@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "531265256524",
+    "project_id": "passer-c203c",
+    "storage_bucket": "passer-c203c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:531265256524:android:85b83e309594c3e23608e9",
+        "android_client_info": {
+          "package_name": "com.itcube1237.epass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "531265256524-iqlopvitei8jh1ok7hn9k3umgc3pjs90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRGmzrTy2mQAexS-mSgOE5ROm0vbgj2G4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "531265256524-iqlopvitei8jh1ok7hn9k3umgc3pjs90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
